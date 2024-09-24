@@ -1,0 +1,28 @@
+html{
+    background-image: url(./pngtree-ancient-egypt-vector-art-illustration-image_1488342.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+
+
+div{
+    border-radius: 15px;
+    border-color: black;
+    background-color: burlywood;
+    color: black;
+    height: 35px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    background-color: burlywood;
+    border-radius: 10px;
+    height: 55px;
+    width: 160px;
+    margin: 5px;
+    font-size: 50px;
+    margin-top: 200px;
+    margin-left: 50px;
+    align-self: center;
+}
